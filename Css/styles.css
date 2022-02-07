@@ -1,0 +1,145 @@
+body {
+
+  text-align: center;
+  font-family: Palatino, URW Palladio L, serif;
+  color:#40514E;
+
+
+}
+.bottomcloud {
+  position: absolute;
+  left: 400px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+
+p {
+  font-family: 'Pavanam', sans-serif;
+  font-size: 20px;
+  line-height: 2;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: 'Poppins', sans-serif;
+  color: #11468F;
+  font-size: 30px;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+
+  color: #11468F;
+}
+
+h3 {
+
+  font-size: 1.6em;
+
+  font-family: 'Poppins', sans-serif;
+  color: #11468F;
+}
+hr {
+  width: 5%;
+  border: 4px dotted;
+  border-style: none none dotted;
+  color: grey
+
+}
+.Topcontainer {
+  background-color: #54BAB9;
+  position: relative;
+  padding-top: 240px;
+
+}
+
+
+ .middle-container {
+   margin: 100px 0;
+ }
+
+ .bottom-container {
+   background-color: #54BAB9;
+   padding: 50px 0 20px;
+ }
+
+.getin{
+
+  margin:100px auto 60px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.profile{
+
+  border-radius: 70%;
+}
+
+
+.btn {
+  background: #67bcf5;
+  background-image: -webkit-linear-gradient(top, #67bcf5, #2b4eb8);
+  background-image: -moz-linear-gradient(top, #67bcf5, #2b4eb8);
+  background-image: -ms-linear-gradient(top, #67bcf5, #2b4eb8);
+  background-image: -o-linear-gradient(top, #67bcf5, #2b4eb8);
+  background-image: linear-gradient(to bottom, #67bcf5, #2b4eb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 11px 19px 10px 17px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{
+  color:#270082;
+  font-family: 'Pavanam', sans-serif;
+margin:10px 20px;
+font-size: 1.5em;
+text-decoration: none;
+
+}
+a:hover{
+  color:#655D8A;
+}
+.copyright{
+  color:#270082;
+ font-size: 1em;
+ padding: 20px 0;
+}
+.copyright:hover{
+  color:#219F94;
+
+}
